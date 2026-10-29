@@ -12,3 +12,5 @@ vendor/
 # Ignore emacs autosaves
 \#*
 .\#*
+
+**/.DS_Store
